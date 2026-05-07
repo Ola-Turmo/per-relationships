@@ -21,10 +21,16 @@
 | 7 | Advokatfirma Orlin | Johan Orlin | B | Solo | johan.orlin@hotmail.com | **Prioritet** — utkast ferdig |
 
 **Mangler før utsendelse:**
-1. Sett inn faktisk Calendly-lenke i alle 7 utkast.
+1. ~~Sett inn faktisk Calendly-lenke i alle 7 utkast.~~ **WORKAROUND: E-post-svar som primær CTA** (Calendly 404 — turmo-dev/ai-workflow-sprint finnes ikke ennå).
 2. Legg til ola@lovkode.no som avsender i e-postklient (hvis ikke allerede konfigurert).
 3. Send batch 1 (tier-A: Hessen, Langseth, RSM) og batch 2 (tier-B: Nohlin, Philipson, Reiersen, Orlin) med 48-timers mellomrom.
 4. Logg sending i `interactions.csv` med type `outreach` og oppfølging i reconnect_items.
+
+**Workaround fra denne kjøringen:**
+- Alle 7 utkast har fått fjernet den ødelagte Calendly-lenken.
+- Primær CTA er nå "Svar på denne e-posten så finner vi en tid som passer."
+- Ingen ekstern avhengighet — utkastene er klare til umiddelbar sending.
+- Når Calendly-eventuelt opprettes senere, erstatt e-post-CTA med `[Book tid her](https://calendly.com/turmo-dev/ai-workflow-sprint)`.
 
 **Neste steg etter utsendelse:**
 - Følg opp ubesvarte e-poster etter 5 virkedager.

@@ -14,8 +14,7 @@ Høyesteretts oppdaterte advokatveiledning (2026) understreker at advokaten er p
 
 **Vil du ha en 15-minutters uforpliktende demo** der jeg går gjennom en typisk kontrakt på plattformen?
 
-[Book tid her] (Calendly-lenke)  
-Eller svar på denne e-posten.
+**Svar på denne e-posten** så finner vi en tid som passer.
 
 —  
 Ola Turmo  

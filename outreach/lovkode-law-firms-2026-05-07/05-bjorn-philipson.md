@@ -12,8 +12,7 @@ Høyesteretts oppdaterte veiledning (2026) krever at advokaten er personlig ansv
 
 **15-minutters uforpliktende demo?** Jeg går gjennom en typisk kontrakt og viser kildestrukturen.
 
-[Book tid her] (Calendly-lenke)  
-Eller svar på denne e-posten.
+**Svar på denne e-posten** så finner vi en tid som passer.
 
 —  
 Ola Turmo  

@@ -14,8 +14,7 @@ Høyesteretts oppdaterte advokatveiledning (2026) krever personlig ansvar for al
 
 **Tilbud: 15-minutters uforpliktende demo** der jeg viser plattformen på en typisk kontrakt.
 
-[Book tid her] (Calendly-lenke)  
-Eller svar på denne e-posten.
+**Svar på denne e-posten** så finner vi en tid som passer.
 
 —  
 Ola Turmo  

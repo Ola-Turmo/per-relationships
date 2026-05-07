@@ -14,8 +14,7 @@ Høyesteretts nye advokatveiledning (2026) er tydelig: advokaten er personlig an
 
 **Tilbud: 15-minutters uforpliktende demo** der jeg kjører en typisk kontrakt gjennom plattformen og viser kildestrukturen i praksis.
 
-[Book tid her] (Calendly-lenke)  
-Eller svar på denne e-posten.
+**Svar på denne e-posten** så finner vi en tid som passer.
 
 —  
 Ola Turmo  

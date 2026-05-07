@@ -14,9 +14,8 @@ Høyesteretts nye advokatveiledning (2026) er tydelig: advokaten er personlig an
 
 **Jeg tilbyr en 15-minutters uforpliktende prat** der jeg viser hvordan plattformen fungerer på en typisk kontraktsklausul. Ingen salgspress — bare en demo.
 
-[Book tid her] (Calendly-lenke)
 
-Eller bare svar på denne e-posten.
+**Svar på denne e-posten** så finner vi en tid som passer.
 
 —  
 Ola Turmo  

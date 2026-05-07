@@ -12,8 +12,7 @@ Jeg bygger Lovkode.no: en norsk rettskildeplattform der AI strukturerer kontrakt
 
 **Vil du se en 15-minutters demo?** Uforpliktende, ingen salgspress.
 
-[Book tid her] (Calendly-lenke)  
-Eller svar på denne e-posten.
+**Svar på denne e-posten** så finner vi en tid som passer.
 
 —  
 Ola Turmo  
