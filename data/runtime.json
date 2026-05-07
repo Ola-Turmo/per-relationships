@@ -1,7 +1,8 @@
 {
-  "lastWeeklyDigestDate": "2026-05-06",
+  "lastWeeklyDigestDate": "2026-05-07",
   "lastOutreachBatchDate": "2026-05-07",
   "lastOutreachBatchFirmCount": 7,
   "pendingCalendlyLinkInsertion": true,
-  "notes": "Paperclip API unreachable during run; assets committed directly to repo"
+  "totalLawFirmProspects": 28,
+  "notes": "Merged PER-135 prospect list (20 new firms) with existing outreach drafts. Paperclip API remains unreachable via run-scoped auth."
 }
